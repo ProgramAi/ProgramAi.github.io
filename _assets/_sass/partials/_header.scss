@@ -30,6 +30,10 @@
     }
 }
 
+.menu-toggled:before {
+    content: "\f00d" !important;
+}
+
 .menu-item-top {
     cursor: pointer;
     display: inline-block;

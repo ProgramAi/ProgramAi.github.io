@@ -16,6 +16,10 @@
 
     .menu-item-top {
         display: block;
-        width: 100%;
+
+        > a {
+            text-align: left;
+            width: 100%;
+        }
     }
 }
