@@ -16,6 +16,11 @@ module.exports = function( grunt ) {
                     dest: './assets/fonts/'
                 }
             ]
+        },
+
+        scripts: {
+            src: './_assets/js/programai.js',
+            dest: './assets/js/programai.js'
         }
     });
 

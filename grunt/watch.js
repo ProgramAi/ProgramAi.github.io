@@ -9,6 +9,11 @@ module.exports = function( grunt ) {
             tasks: [ 'sass:dev' ]
         },
 
+        scripts: {
+            files: './_assets/js/**/*.js',
+            tasks: [ 'copy:scripts' ]
+        },
+
         liveReload: {
             options: {
                 livereload: true
@@ -16,6 +21,7 @@ module.exports = function( grunt ) {
 
             files: [
                 './assets/css/*.css',
+                './assets/js/*.js',
                 './**/*.html',
                 './**/*.md',
                 '!./_site/**/*'

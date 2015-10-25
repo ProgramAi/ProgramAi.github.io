@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px) {
+    #toggle-top-menu {
+        display: block;
+    }
+
+    #top-menu {
+        > main {
+            display: block;
+
+            > .menu {
+                display: none;
+                margin: 0;
+            }
+        }
+    }
+
+    .menu-item-top {
+        display: block;
+        width: 100%;
+    }
+}

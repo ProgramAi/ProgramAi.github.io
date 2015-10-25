@@ -17,6 +17,19 @@
     }
 }
 
+#toggle-top-menu {
+    cursor: pointer;
+    display: none;
+    line-height: 45px;
+    text-align: center;
+
+    &:before {
+        content: "\f0c9";
+        font-family: FontAwesome;
+        margin-right: 1em;
+    }
+}
+
 .menu-item-top {
     cursor: pointer;
     display: inline-block;
@@ -33,3 +46,5 @@
         text-align: center;
     } 
 }
+
+@import 'header-phone';

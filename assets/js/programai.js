@@ -1,0 +1,1 @@
+!function(a){var b=!0;a.querySelector("#toggle-top-menu").onclick=function(){b?a.querySelector("#top-menu .menu").style.display="block":a.querySelector("#top-menu .menu").style.display="none",b=!b}}(document);

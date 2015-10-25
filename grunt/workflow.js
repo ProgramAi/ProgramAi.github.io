@@ -4,4 +4,5 @@ module.exports = function(grunt) {
     });
 
     grunt.registerTask('dev', ['sass:dev', 'copy', 'watch']);
+    grunt.registerTask('build', ['sass:dist', 'uglify']);
 };
