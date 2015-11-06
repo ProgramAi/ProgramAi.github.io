@@ -21,6 +21,17 @@ module.exports = function( grunt ) {
         scripts: {
             src: './_assets/js/programai.js',
             dest: './assets/js/programai.js'
+        },
+
+        images: {
+            files: [
+                {
+                    expand: true, 
+                    cwd: './_assets/img/',
+                    src: ['*'], 
+                    dest: './assets/img/'
+                }
+            ]
         }
     });
 
