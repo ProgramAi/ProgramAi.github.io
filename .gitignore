@@ -1,6 +1,13 @@
-_site
 .sass-cache
-*.swp
-node_modules
-bower_components
-Gemfile.lock
+
+### Vim ###
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
