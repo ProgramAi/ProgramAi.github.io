@@ -4,10 +4,10 @@
     <title>ProgramAi! - Dicas, cursos e tutoriais de programação.</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>//localhost:8000/</link>
-    <atom:link href="//localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 29 May 2016 19:22:33 -0400</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 19:22:33 -0400</lastBuildDate>
+    <link>//programai.github.io/</link>
+    <atom:link href="//programai.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 29 May 2016 19:31:51 -0400</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 19:31:51 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 24 Oct 2015 08:05:14 -0400</pubDate>
-        <link>//localhost:8000/jekyll/</link>
-        <guid isPermaLink="true">//localhost:8000/jekyll/</guid>
+        <link>//programai.github.io/jekyll/</link>
+        <guid isPermaLink="true">//programai.github.io/jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -69,7 +69,7 @@ e executa-la em um emulador ou dispositivo físico.&lt;/p&gt;
 comentários que eu te ajudo.&lt;/p&gt;
 
 &lt;h2 id=&quot;o-incio-de-tudo&quot;&gt;O Início de tudo&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;//localhost:8000//assets/img/posts/mobile/android/android-studio-tutorial/inicio.jpg&quot; alt=&quot;Inicio&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//programai.github.io//assets/img/posts/mobile/android/android-studio-tutorial/inicio.jpg&quot; alt=&quot;Inicio&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Então, dito tudo isso, vamos para o que interessa. Quais são os dois requisitos básicos 
 para utilizar qualquer programa? Exato, baixar e instalar.&lt;/p&gt;
@@ -83,8 +83,8 @@ para execução, então é só descompactar o arquivo e mandar bala.&lt;/p&gt;
 
 &lt;h3 id=&quot;primeira-execuo&quot;&gt;Primeira execução&lt;/h3&gt;
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-1.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-1.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 1&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-1.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-1.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 1&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 1&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -98,8 +98,8 @@ entre os tipos de configuração, Padrão ou Personalizada. No nosso exemplo vam
 &lt;em&gt;Custom&lt;/em&gt;, apenas para mostrar o que pode ser configurado.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-2.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-2.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 2&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-2.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-2.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 2&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 2&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -109,8 +109,8 @@ configurar o esquema de cores da IDE, então se você gosta, já pode selecionar
 escuro padrão.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-3.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-3.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 3&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-3.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-3.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 3&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 3&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -119,8 +119,8 @@ escuro padrão.&lt;/p&gt;
 Android.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-4.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-4.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 4&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-4.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-4.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 4&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 4&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -133,8 +133,8 @@ opção, porém não o faça se você não tiver certeza do que está fazendo.&l
 sistemas Linux.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-5.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-5.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 5&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-5.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-5.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 5&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 5&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -143,8 +143,8 @@ sistemas Linux.&lt;/p&gt;
 passo.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-6.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-6.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 6&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-6.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-6.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 6&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 6&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -162,14 +162,14 @@ saber que ele vai ter que baixar mais de 1 GB de arquivos deve ser relativamente
 mas é isso aí mesmo, agora é sentar e esperar o download da tela aí de baixo finalizar :confused:.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-7.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-7.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 7&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-7.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-setup-7.png&quot; class=&quot;responsive-image&quot; alt=&quot;Android Studio - Tela de configuração 7&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Android Studio - Tela de configuração 7&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;novo-projeto&quot;&gt;Novo Projeto&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;//localhost:8000//assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto.jpg&quot; alt=&quot;Novo Projeto&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//programai.github.io//assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto.jpg&quot; alt=&quot;Novo Projeto&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Após o término do download, a configuração do Android Studio estará finalizada, então você estará 
 pronto para iniciar um novo projeto. A tela abaixo deverá ser exibida, nela você poderá gerenciar 
@@ -177,8 +177,8 @@ todos os projetos criados, criar um projeto novo, abrir um projeto existente, im
 do Eclipse, entre outras opções.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-inicial.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-inicial.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela de boas vindas do Android Studio&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-inicial.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-inicial.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela de boas vindas do Android Studio&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Tela de boas vindas do Android Studio.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -189,8 +189,8 @@ que diz &lt;em&gt;Start a new Android Studio project&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Em seguida deve ser exibida a tela onde você vai configurar os dados principais do projeto.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-1.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-1.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 1&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-1.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-1.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 1&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Criando um novo projeto no Android Studio – Passo 1.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -221,8 +221,8 @@ seu computador você deseja salvar o seu projeto. Então é só escolher o valor
 cada uma delas.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-2.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-2.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 2&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-2.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-2.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 2&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Criando um novo projeto no Android Studio – Passo 2.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -241,8 +241,8 @@ de dispositivos compatíveis com a sua aplicação quando você escolhe a versã
 Clicando em &lt;em&gt;Help me choose&lt;/em&gt;, a tela abaixo é exibida:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-api-distribuicao.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-api-distribuicao.png&quot; class=&quot;responsive-image&quot; alt=&quot;Gráfico distribuição de versões do Android.&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-api-distribuicao.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-api-distribuicao.png&quot; class=&quot;responsive-image&quot; alt=&quot;Gráfico distribuição de versões do Android.&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Gráfico distribuição de versões do Android.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -263,8 +263,8 @@ do Android, apenas 4.3% dos dispositivos permanecem com essas versões mais anti
 &lt;p&gt;Voltando à criação do projeto, clique no botão &lt;em&gt;next&lt;/em&gt; e tela abaixo deve ser exibida.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-3.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-3.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 3&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-3.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-3.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 3&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Criando um novo projeto no Android Studio – Passo 3.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -280,8 +280,8 @@ vamos escolher a primeira opção, que consiste em uma Activity vazia (&lt;em&gt
 selecionou no passo anterior. Se você selecionou a opção &lt;em&gt;Blank Activity&lt;/em&gt;, a seguinte tela deve ser exibida:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-4.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-4.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 4&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-4.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/novo-projeto-android-studio-passo-4.png&quot; class=&quot;responsive-image&quot; alt=&quot;Criando um novo projeto no Android Studio – Passo 4&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Criando um novo projeto no Android Studio – Passo 4.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -294,8 +294,8 @@ Android Studio está construindo o projeto. Ao final desse carregamento a dela p
 conforme a imagem a seguir:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-principal.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-principal.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela Principal do Android Studio&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-principal.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/android-studio-tela-principal.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela Principal do Android Studio&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Tela Principal do Android Studio.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -308,8 +308,8 @@ da nossa tela, e como você já deve ter percebido a tela já conta com o tradic
 Hello World sendo exibido na tela. Uma janelinha deve ser exibida com os campos text e id.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/alteracao-texto-textview.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/alteracao-texto-textview.png&quot; class=&quot;responsive-image&quot; alt=&quot;Alteração do texto da TextView&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/alteracao-texto-textview.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/alteracao-texto-textview.png&quot; class=&quot;responsive-image&quot; alt=&quot;Alteração do texto da TextView&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Alteração do texto da TextView.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -320,7 +320,7 @@ Defina os dois conforme o exemplo, use o texto que você quiser e o mesmo id do 
 
 &lt;p&gt;Se você chegou até aqui, parabéns, você acabou de criar a sua primeira aplicação para Android.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/homer-woohoo.jpg&quot; alt=&quot;Parabéns&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/homer-woohoo.jpg&quot; alt=&quot;Parabéns&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;O próximo passo é executar a sua aplicação, e ver ela funcionando :smiley:.&lt;/p&gt;
 
@@ -329,15 +329,15 @@ externo, ou rodar em um emulador, que é um programa que simula um dispositivo n
 necessário ter um celular com Android para testar a sua aplicação.&lt;/p&gt;
 
 &lt;h2 id=&quot;executando-em-um-emulador&quot;&gt;Executando em um emulador&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;//localhost:8000//assets/img/posts/mobile/android/android-studio-tutorial/emulador-android.jpg&quot; alt=&quot;Executando em um emulador&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//programai.github.io//assets/img/posts/mobile/android/android-studio-tutorial/emulador-android.jpg&quot; alt=&quot;Executando em um emulador&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;O processo para executar a aplicação em um emulador é bem simples. Antes de executar a nossa aplicação em um emulador, 
 nós devemos executar o emulador. Para isso nós vamos abrir o Gerenciador de dispositivos virtuais (AVD Manager), isso 
 pode ser feito através do menu &lt;em&gt;Tools &amp;gt; Android &amp;gt; AVD Manager&lt;/em&gt; ou através do ícone na barra de ferramentas.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/icone-avd-manager.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/icone-avd-manager.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Ícone do AVD Manager&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/icone-avd-manager.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/icone-avd-manager.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Ícone do AVD Manager&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Ícone do AVD Manager.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -345,8 +345,8 @@ pode ser feito através do menu &lt;em&gt;Tools &amp;gt; Android &amp;gt; AVD Ma
 &lt;p&gt;O Android Studio então exibirá a tela do AVD Manager, que é igual à imagem abaixo:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/avd-manager.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/avd-manager.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela principal AVD Manager&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/avd-manager.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/avd-manager.png&quot; class=&quot;responsive-image&quot; alt=&quot;Tela principal AVD Manager&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Tela principal AVD Manager.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -372,8 +372,8 @@ computador, então agora é só instalar o seu app nesse dispositivo virtual e e
 Android Studio que deseja executar a aplicação, a seguinte tela será exibida:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio.png&quot; class=&quot;responsive-image&quot; alt=&quot;Executar aplicação no Android Studio&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio.png&quot; class=&quot;responsive-image&quot; alt=&quot;Executar aplicação no Android Studio&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Executar aplicação no Android Studio.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -386,14 +386,14 @@ Então é só selecionar o dispositivo desejado e clicar em Ok.&lt;/p&gt;
 o processo a tela do aplicativo será exibida no emulador, conforme a imagem abaixo:&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/app-emulador.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/app-emulador.png&quot; class=&quot;responsive-image&quot; alt=&quot;Aplicação rodando no emulador&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/app-emulador.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/app-emulador.png&quot; class=&quot;responsive-image&quot; alt=&quot;Aplicação rodando no emulador&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Aplicação rodando no emulador.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;executando-em-um-dispositivo-fsico&quot;&gt;Executando em um dispositivo físico&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;//localhost:8000//assets/img/posts/mobile/android/android-studio-tutorial/nexus.jpg&quot; alt=&quot;Executando em um dispositivo físico&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//programai.github.io//assets/img/posts/mobile/android/android-studio-tutorial/nexus.jpg&quot; alt=&quot;Executando em um dispositivo físico&quot; class=&quot;section-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;O emulador pode ser uma mão na roda na hora de testar rapidamente a sua aplicação durante o desenvolvimento, mas você 
 só vai saber se a aplicação realmente funciona, depois de testar em um dispositivo real. Quanto mais próximo do ambiente 
@@ -412,7 +412,7 @@ ter que acessar as opções do desenvolvedor.&lt;/p&gt;
 a opção será encontrada em &lt;strong&gt;Configurações &amp;gt; Opções do Desenvolvedor&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;  
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/habilitar-depuracao-usb.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Habilitando depuração USB no Android&quot; /&gt;  
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/habilitar-depuracao-usb.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Habilitando depuração USB no Android&quot; /&gt;  
   &lt;figcaption class=&quot;caption&quot;&gt;Habilitando depuração USB no Android.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -431,8 +431,8 @@ celular no computador via cabo USB (no Windows talvez seja necessário instalar 
 e mandar executar o aplicativo (Shift + F10).&lt;/p&gt;
 
 &lt;figure class=&quot;post-figure medium&quot;&gt;
-  &lt;a href=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio-celular.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;//localhost:8000/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio-celular.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Execução do app no celular&quot; /&gt;
+  &lt;a href=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio-celular.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img src=&quot;//programai.github.io/assets/img/posts/mobile/android/android-studio-tutorial/executar-app-android-studio-celular.jpg&quot; class=&quot;responsive-image&quot; alt=&quot;Execução do app no celular&quot; /&gt;
   &lt;/a&gt;
   &lt;figcaption class=&quot;caption&quot;&gt;Execução do app no celular.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -452,8 +452,8 @@ disponível.&lt;/p&gt;
 &lt;p&gt;Valeu pessoal.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Sep 2015 12:00:00 -0400</pubDate>
-        <link>//localhost:8000/mobile/android/android-studio-tutorial/</link>
-        <guid isPermaLink="true">//localhost:8000/mobile/android/android-studio-tutorial/</guid>
+        <link>//programai.github.io/mobile/android/android-studio-tutorial/</link>
+        <guid isPermaLink="true">//programai.github.io/mobile/android/android-studio-tutorial/</guid>
         
         <category>Android Studio</category>
         
