@@ -1,0 +1,19 @@
+{
+  "name": "programai-dist",
+  "version": "1.0.0",
+  "description": "ProgramAi Blog version built to Github Pages.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programai/programai.github.io.git"
+  },
+  "author": "Andrew C. Pacifico <andrewcpacifico@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programai/programai.github.io/issues"
+  },
+  "homepage": "https://github.com/programai/programai.github.io#readme"
+}
